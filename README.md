@@ -25,9 +25,12 @@ This guide will walk you through the process of setting up a MySQL database with
 - This is to be done when you are not able to add the data in the panel.
 - Make sure your MYSQL Ports are open.
 
-1. You need to go in this file "nano /etc/mysql/mariadb.conf.d/50-server.cnf"
+1. You need to go in this file
+```bash
+nano /etc/mysql/mariadb.conf.d/50-server.cnf
+```
 
-2. Change the Bind port from ``127.0.0.1 TO 0.0.0.0``
+4. Change the Bind port from ``127.0.0.1 TO 0.0.0.0``
 
 
 - **Don't use the numpad of your keyboard in this file.**
