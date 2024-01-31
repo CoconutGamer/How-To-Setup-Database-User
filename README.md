@@ -19,3 +19,4 @@ CREATE USER 'Put your new user name here'@'%' IDENTIFIED BY 'Put your new passwo
 GRANT ALL PRIVILEGES ON *.* TO 'Put your new user name here'@'%' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
 exit
+```
