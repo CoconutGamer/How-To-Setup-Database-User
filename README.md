@@ -30,11 +30,12 @@ This guide will walk you through the process of setting up a MySQL database with
 2. Change the Bind port from ``127.0.0.1" TO "0.0.0.0``
 
 
-**Don't use the numpad of your keyboard in this file.**
+- **Don't use the numpad of your keyboard in this file.**
 
 4. Save the file.
 
 5. Run
-```systemctl restart mysql && systemctl restart mariadb```
-
-So that all the settings take place
+```bash
+   systemctl restart mysql && systemctl restart mariadb
+```
+- So that all the settings take place
