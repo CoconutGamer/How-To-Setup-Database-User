@@ -20,7 +20,7 @@ This guide will walk you through the process of setting up a MySQL database with
    FLUSH PRIVILEGES;
    exit
    
-![Image](https://imgur.com/a/KdMCTKN)
+[[![Image](https://imgur.com/a/KdMCTKN)](https://imgur.com/BxlxNK2)](https://imgur.com/BxlxNK2)
 ## Additional Steps
 
 - This is to be done when you are not able to add the data in the panel.
