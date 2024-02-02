@@ -20,8 +20,7 @@ This guide will walk you through the process of setting up a MySQL database with
    FLUSH PRIVILEGES;
    exit
    
-![](https://imgur.com/a/KdMCTKN](https://images-ext-2.discordapp.net/external/rK4zrxmlkD0AIW4MtHSMjkBD0E53RvZXERNchtp5LF8/https/i.imgur.com/BxlxNK2h.jpg?format=webp)
-## Additional Steps
+![](https://media.discordapp.net/attachments/949506107615879178/1203065362271436851/how_to_set_up_db_3-23_screenshot.png?ex=65cfbcee&is=65bd47ee&hm=2eee5c727aa0be5010e1f9bbe8eb5561d818f9d28592fb5c9374df810e75fb30&=&format=webp&quality=lossless)
 
 - This is to be done when you are not able to add the data in the panel.
 - Make sure your MYSQL Ports are open.
