@@ -19,7 +19,7 @@ This guide will walk you through the process of setting up a MySQL database with
    GRANT ALL PRIVILEGES ON *.* TO 'Put your new user name here'@'%' WITH GRANT OPTION;
    FLUSH PRIVILEGES;
    exit
-
+![Image](https://imgur.com/a/KdMCTKN))
 ## Additional Steps
 
 - This is to be done when you are not able to add the data in the panel.
