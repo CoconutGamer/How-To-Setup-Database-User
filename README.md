@@ -30,7 +30,7 @@ This guide will walk you through the process of setting up a MySQL database with
 nano /etc/mysql/mariadb.conf.d/50-server.cnf
 ```
 
-4. Change the Bind port from ``127.0.0.1 TO 0.0.0.0``
+4. Change the Bind port from ``127.0.0.1`` TO ``0.0.0.0``
 
 
 - **Don't use the numpad of your keyboard in this file.**
